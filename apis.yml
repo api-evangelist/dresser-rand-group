@@ -5,6 +5,17 @@ description: >-
   the worldwide oil, gas, petrochemical, and process industries. It was
   acquired by Siemens in 2015 and now operates as part of Siemens Energy.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
