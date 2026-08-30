@@ -42,6 +42,11 @@ modified: '2026-04-28'
 specificationVersion: '0.23'
 apis: []
 common:
+  - type: ParentCompany
+    url: https://apis.io/providers/siemens/
+    name: Siemens
+    x-relationship: acquired
+    x-evidence: "It was acquired by Siemens in 2015 and now operates as part of Siemens Energy."
   - type: VulnerabilityDisclosure
     url: security/dresser-rand-group-vulnerability-disclosure.yml
   - type: DomainSecurity
