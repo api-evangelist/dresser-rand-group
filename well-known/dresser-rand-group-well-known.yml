@@ -1,0 +1,43 @@
+generated: '2026-09-06'
+method: probed
+source: live HTTP probes of every host this record knows
+note: >-
+  Recorded ABSENCE. Dresser-Rand Group's own domain (dresser-rand.com, registered through
+  CSC and still resolving) answers every path — including every /.well-known/ path — with a
+  single blanket HTTP 301 to a Siemens Energy marketing page. HTTPS on that host does not
+  answer at all (connection timeout). No /.well-known/ document is served by this company, so
+  NO WellKnown or SecurityTxt pointer is emitted in apis.yml. The acquirer's host
+  www.siemens-energy.com DOES serve /.well-known/security.txt (HTTP 200, probed 2026-09-06),
+  but that document is Siemens Energy's, not Dresser-Rand's, and is recorded on the Siemens
+  profile (https://apis.io/providers/siemens/) rather than credited here.
+hosts:
+  - host: dresser-rand.com
+    documents:
+      - path: /.well-known/security.txt
+        status: 301
+        file: null
+      - path: /.well-known/openid-configuration
+        status: 301
+        file: null
+      - path: /.well-known/oauth-authorization-server
+        status: 301
+        file: null
+      - path: /.well-known/api-catalog
+        status: 301
+        file: null
+      - path: /.well-known/ai-plugin.json
+        status: 301
+        file: null
+      - path: /.well-known/agent-card.json
+        status: 301
+        file: null
+      - path: /.well-known/agent.json
+        status: 301
+        file: null
+  - host: www.dresser-rand.com
+    documents:
+      - path: /
+        status: 301
+        file: null
+redirect_target: https://www.siemens-energy.com/global/en/offerings/industrial-applications.html
+redirect_target_status: 404
