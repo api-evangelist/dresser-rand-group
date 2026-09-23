@@ -1,7 +1,9 @@
 ---
 title: How Will Siemens' Acquisition of Dresser-Rand Change ...
 url: https://www.ien.eu/article/how-will-siemens-acquisition-of-dresser-rand-change-the-competitive-landscape/?a=enquire
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Dresser-Rand Group" press release artificial intelligence'
 position: 4
 source: serpapi-google

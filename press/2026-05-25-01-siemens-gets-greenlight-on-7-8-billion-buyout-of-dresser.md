@@ -1,7 +1,9 @@
 ---
 title: Siemens Gets Greenlight on $7.8 Billion Buyout of Dresser ...
 url: https://www.oilandgas360.com/siemens-gets-greenlight-on-7-8-billion-buyout-of-dresser-rand/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Dresser-Rand Group" press release artificial intelligence'
 position: 1
 source: serpapi-google

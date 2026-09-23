@@ -1,7 +1,9 @@
 ---
 title: Siemens buyout of Dresser-Rand set to face Feb. 13 review ...
 url: https://www.mlex.com/mlex/articles/2080153/siemens-buyout-of-dresser-rand-set-to-face-feb-13-review-deadline-in-eu
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Dresser-Rand Group" press release artificial intelligence'
 position: 5
 source: serpapi-google
