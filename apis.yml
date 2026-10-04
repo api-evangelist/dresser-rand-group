@@ -79,3 +79,9 @@ x-coverage:
     - url: https://www.linkedin.com/company/dresser-rand
       status: 404
   checked: '2026-09-06'
+x-status: acquired
+x-acquired-by: siemens
+x-parent: siemens
+x-acquired-date: '2015-06'
+x-status-source: "https://press.siemens.com/global/en/pressrelease/siemens-gets-green-light-eu-commission-dresser-rand-acquisition"
+x-status-evidence: "Siemens closed the USD 7.8B Dresser-Rand acquisition at the end of June 2015 (now part of Siemens Energy); dresser-rand.com no longer resolves (roadmap#812)"
